@@ -15,7 +15,7 @@ pip install mechanize
 pkg install git
 
 
-git clone https://github.com/Tahsin-CEBT/CEBT-Crack.git Dr
+git clone https://github.com/Tahsin-CEBT/CEBT-Crack.git 
 
 cd CEBT-Crack
 
